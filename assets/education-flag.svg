@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+<title id="title">Computer Support and Hardware studies</title>
+<desc id="desc">A gently waving United States flag is clipped strictly inside the study-area lettering.</desc>
+<defs>
+  <clipPath id="study-type"><g transform="translate(600 0) scale(.8 1) translate(-600 0)"><text x="600" y="105" text-anchor="middle" font-family="Arial Narrow,Roboto Condensed,Arial,sans-serif" font-size="94" font-weight="900" letter-spacing="-1">COMPUTER SUPPORT &amp; HARDWARE</text></g></clipPath>
+  <path id="star" d="M0 -5L1.4 -1.6L5 -1.6L2.1 .7L3.1 4.4L0 2.2L-3.1 4.4L-2.1 .7L-5 -1.6L-1.4 -1.6Z"/>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".42"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#study-type)">
+  <rect width="1200" height="140" fill="#fff"/>
+  <g fill="#B22234"><path d="M0 0H1200V10.8H0Z M0 21.5H1200V32.3H0Z M0 43.1H1200V53.9H0Z M0 64.6H1200V75.4H0Z M0 86.2H1200V97H0Z M0 107.7H1200V118.5H0Z"><animateTransform attributeName="transform" type="skewY" values="0;1.25;0;-1.25;0" dur="3.6s" repeatCount="indefinite"/></path></g>
+  <path d="M0 0H420V75H0Z" fill="#19365A"><animateTransform attributeName="transform" type="skewY" values="0;1;0;-1;0" dur="3.6s" repeatCount="indefinite"/></path>
+  <g fill="#fff" opacity=".98">
+    <g transform="translate(35 13)"><use href="#star"/><use href="#star" x="56"/><use href="#star" x="112"/><use href="#star" x="168"/><use href="#star" x="224"/><use href="#star" x="280"/><use href="#star" x="336"/></g>
+    <g transform="translate(63 31)"><use href="#star"/><use href="#star" x="56"/><use href="#star" x="112"/><use href="#star" x="168"/><use href="#star" x="224"/><use href="#star" x="280"/></g>
+    <g transform="translate(35 49)"><use href="#star"/><use href="#star" x="56"/><use href="#star" x="112"/><use href="#star" x="168"/><use href="#star" x="224"/><use href="#star" x="280"/><use href="#star" x="336"/></g>
+    <g transform="translate(63 67)"><use href="#star"/><use href="#star" x="56"/><use href="#star" x="112"/><use href="#star" x="168"/><use href="#star" x="224"/><use href="#star" x="280"/></g>
+  </g>
+  <path d="M-180 0L-82 0L190 140H92Z" fill="url(#shine)" opacity=".72"><animateTransform attributeName="transform" type="translate" values="-260 0;1450 0" dur="5.8s" repeatCount="indefinite"/></path>
+</g>
+</svg>
