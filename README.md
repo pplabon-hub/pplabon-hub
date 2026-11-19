@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="Ishak Dawan — traveller, creator and technologist" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Ishak Dawan, travel, technology and education" width="100%" />
 </div>
 
 I’m interested in how people experience places, how technology can solve practical problems, and how good ideas become useful products.
@@ -10,7 +10,7 @@ I’m interested in how people experience places, how technology can solve pract
 
 **Associate Degree** · ASA College · New York, USA
 
-<img src="./assets/education-flag.svg" alt="Computer Support and Hardware study area highlighted with a gently waving United States flag masked only inside the lettering." width="100%" />
+<img src="./assets/education-flag.svg" alt="Computer Support and Hardware, with the United States flag animated inside the letters only." width="100%" />
 
 *Computer Support Specialist / Computer Hardware Specialist*
 

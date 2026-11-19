@@ -1,49 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
-<title id="title">Ishak Dawan — Travel, technology and education</title>
-<desc id="desc">A dark cinematic profile header with an original portrait, custom condensed and handwritten name lettering, and a muted mountain landscape.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131B"/><stop offset=".56" stop-color="#0B2429"/><stop offset="1" stop-color="#101A20"/></linearGradient>
-  <radialGradient id="halo"><stop offset="0" stop-color="#2C6C62" stop-opacity=".52"/><stop offset="1" stop-color="#2C6C62" stop-opacity="0"/></radialGradient>
-  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A9D982"/><stop offset="1" stop-color="#75B98C"/></linearGradient>
-  <linearGradient id="photoTint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A2024" stop-opacity=".04"/><stop offset="1" stop-color="#07131B" stop-opacity=".22"/></linearGradient>
-  <clipPath id="portrait"><rect x="878" y="42" width="460" height="398" rx="24"/></clipPath>
-</defs>
-<rect width="1440" height="500" rx="18" fill="url(#bg)"/>
-<circle cx="1100" cy="240" r="390" fill="url(#halo)"/>
-<path d="M0 418Q180 350 330 403T680 380T1010 400T1440 358V500H0Z" fill="#0B2025" opacity=".82"/>
-<path d="M0 454Q175 392 348 447T710 420T1035 448T1440 404V500H0Z" fill="#0D292C" opacity=".72"/>
-<path d="M0 479Q230 432 430 474T850 450T1180 480T1440 448" fill="none" stroke="#4C786C" stroke-opacity=".35" stroke-width="2"/>
-<path d="M66 40H1374" stroke="#E6EEE7" stroke-opacity=".16"/>
-<text x="78" y="82" fill="#AABCB5" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">TRAVEL / TECHNOLOGY / EDUCATION</text>
-<g opacity="0">
-  <animate attributeName="opacity" values="0;1" dur=".9s" begin=".12s" fill="freeze"/>
-  <animateTransform attributeName="transform" type="translate" values="0 22;0 0" dur=".9s" begin=".12s" fill="freeze"/>
-  <g fill="#F2F3ED"><g transform="translate(78 238) scale(.166 - .166)">
-<path d="M325 0H24V91L89 126V588L24 623V714H325V623L260 588V126L325 91Z"/>
-<path d="M760 217Q760 151 733 99.5Q706 48 657 19Q608 -10 541 -10Q495 -10 453.5 0Q412 10 367 35V207Q408 179 451.5 163Q495 147 530 147Q559 147 573 162Q587 177 587 200Q587 216 582 229.5Q577 243 559.5 259.5Q542 276 504 300Q464 327 434 354.5Q404 382 387.5 420Q371 458 371 515Q371 610 425.5 667Q480 724 584 724Q670 724 761 673L716 524Q643 570 591 570Q566 570 555 557Q544 544 544 524Q544 505 550 491.5Q556 478 575 462.5Q594 447 633 422Q695 382 727.5 335Q760 288 760 217Z"/>
-<path d="M1315 0H1145V298H1003V0H832V714H1003V444H1145V714H1315Z"/>
-<path d="M1745 0L1721 139H1572L1548 0H1363L1532 714H1757L1928 0ZM1668 445Q1661 485 1656 522Q1651 559 1647 589Q1644 561 1638 524Q1632 487 1625 447L1597 285H1695Z"/>
-<path d="M2471 0H2283L2185 266L2147 239V0H1976V714H2147V404Q2152 425 2160.5 447.5Q2169 470 2182 495L2291 714H2475L2309 394Z"/></g></g>
-</g>
-<g opacity="0">
-  <animate attributeName="opacity" values="0;1" dur="1.05s" begin=".34s" fill="freeze"/>
-  <animateTransform attributeName="transform" type="translate" values="0 24;0 0" dur="1.05s" begin=".34s" fill="freeze"/>
-  <g fill="url(#green)"><g transform="translate(82 350) scale(.128 - .128)">
-<path d="M242 641V0H350V45C403 5 448 -13 488 -13C599 -13 680 178 680 367C680 561 589 750 334 750C154 750 18 639 18 515C18 427 68 393 149 393C133 404 94 430 94 507C94 637 199 714 320 714C494 714 561 613 561 366C561 221 523 52 420 52C399 52 375 59 350 78V656Z"/>
-<path d="M1020 500V452C1001 493 959 505 927 505C791 505 737 346 737 223C737 55 827 -6 908 -6C971 -6 1018 37 1038 89C1048 39 1074 -6 1135 -6C1179 -6 1244 12 1274 179H1237C1222 107 1197 70 1165 70C1122 70 1120 134 1120 160V500ZM933 70C875 70 842 116 842 230C842 323 875 450 961 450C991 450 1011 428 1020 407V179C1020 118 974 70 933 70Z"/>
-<path d="M1236 500V149C1236 35 1299 -6 1377 -6C1418 -6 1459 18 1485 72C1508 21 1559 -6 1611 -6C1749 -6 1796 186 1796 337C1796 472 1758 521 1712 521C1679 521 1661 496 1661 470C1661 445 1677 417 1709 417C1715 417 1729 418 1735 425C1741 396 1744 357 1744 320C1744 202 1714 70 1632 70C1583 70 1574 116 1574 160V500H1474V179C1474 110 1434 70 1396 70C1361 70 1336 95 1336 160V500Z"/>
-<path d="M2128 500V452C2109 493 2067 505 2035 505C1899 505 1845 346 1845 223C1845 55 1935 -6 2016 -6C2079 -6 2126 37 2146 89C2156 39 2182 -6 2243 -6C2287 -6 2352 12 2382 179H2345C2330 107 2305 70 2273 70C2230 70 2228 134 2228 160V500ZM2041 70C1983 70 1950 116 1950 230C1950 323 1983 450 2069 450C2099 450 2119 428 2128 407V179C2128 118 2082 70 2041 70Z"/>
-<path d="M2344 500V0H2444V320C2463 398 2493 429 2534 429C2568 429 2598 407 2598 321C2598 294 2595 172 2595 147C2595 66 2628 -6 2712 -6C2754 -6 2819 12 2849 179H2812C2796 103 2771 70 2740 70C2696 70 2695 135 2695 156C2695 208 2701 279 2701 326C2701 403 2685 505 2564 505C2530 505 2483 497 2444 424V500Z"/></g></g>
-</g>
-<path d="M84 368C180 378 281 369 400 365" fill="none" stroke="#9CD77C" stroke-width="3" stroke-linecap="round" opacity=".82"/>
-<text x="84" y="414" fill="#E8EEE8" font-family="Arial,sans-serif" font-size="22" letter-spacing="1.1">TRAVELLER <tspan fill="#9BCB82">·</tspan> CREATOR <tspan fill="#9BCB82">·</tspan> TECHNOLOGIST</text>
-<text x="84" y="452" fill="#AFC0B9" font-family="Arial,sans-serif" font-size="17" letter-spacing="1.8">NARAYANGANJ, BANGLADESH</text>
-<rect x="878" y="42" width="460" height="398" rx="24" fill="#A8D58A" opacity=".16" transform="translate(6 7)"/>
-<g clip-path="url(#portrait)">
-  <image href="portrait-hero.jpg" x="878" y="42" width="460" height="398" preserveAspectRatio="xMidYMid slice"/>
-  <rect x="878" y="42" width="460" height="398" fill="url(#photoTint)"/>
-</g>
-<rect x="878" y="42" width="460" height="398" rx="24" fill="none" stroke="#D2E3D7" stroke-opacity=".45" stroke-width="2"/>
-<path d="M875 468H1338" stroke="#9BCB82" stroke-opacity=".48"/>
-<text x="1370" y="482" fill="#91B99D" font-family="Arial,sans-serif" font-size="12" text-anchor="end" letter-spacing="2">PROFILE / 01</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Ishak Dawan</title><desc id="d">A clean editorial profile banner in midnight navy and muted teal.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07121C"/><stop offset="1" stop-color="#0B3438"/></linearGradient><linearGradient id="accent"><stop stop-color="#13C5C2"/><stop offset="1" stop-color="#D8C69C"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<circle cx="1060" cy="40" r="220" fill="#13C5C2" opacity=".08"/><circle cx="1120" cy="280" r="190" fill="#D8C69C" opacity=".08"/>
+<path d="M64 54H1136" stroke="#D8C69C" stroke-opacity=".35"/>
+<text x="66" y="91" fill="#B8C9C5" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">TRAVEL  /  TECHNOLOGY  /  EDUCATION</text>
+<text x="62" y="194" fill="#F4F2EA" font-family="Arial,sans-serif" font-size="92" font-weight="700" letter-spacing="1">ISHAK DAWAN</text>
+<rect x="68" y="220" width="260" height="4" rx="2" fill="url(#accent)"/>
+<text x="68" y="262" fill="#B8C9C5" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">CURIOUS MIND  ·  PRACTICAL BUILDER</text>
+<text x="1135" y="262" text-anchor="end" fill="#D8C69C" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">BANGLADESH</text>
 </svg>
